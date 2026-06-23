@@ -1,6 +1,6 @@
 # wiretext web
 
-v1.0.1 — Unicode wireframe tool. Vite + React 19. Dark Editorial design.
+v1.0.2 — Unicode wireframe tool. Vite + React 19. Dark Editorial design.
 
 ## Run
 
