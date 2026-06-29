@@ -1,4 +1,4 @@
-<img src="icon.svg" width="80">
+<img src="icon.svg" width="80" style="border-radius:18px">
 
 # wiretext
 ![version](https://img.shields.io/badge/version-v1.0.2-blue)
